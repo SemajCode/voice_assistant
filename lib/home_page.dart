@@ -139,6 +139,7 @@ class _HomePageState extends State<HomePage> {
 
             // Features List
             const Column(
+              // This column shows list of features
               children: [
                 FeatureBox(
                   color: Pallete.firstSuggestionBoxColor,

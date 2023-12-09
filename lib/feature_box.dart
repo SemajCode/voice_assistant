@@ -54,6 +54,7 @@ class FeatureBox extends StatelessWidget {
                 ),
               ),
             ),
+            const SizedBox(height: 16),
           ],
         ),
       ),
