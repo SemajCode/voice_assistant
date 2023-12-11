@@ -160,9 +160,8 @@ class _HomePageState extends State<HomePage> {
                       'Get the best of both worlds with a voice assistant powered by Dall-E and ChatGPT.',
                 ),
               ],
+              //New comment
             ),
-            //Delete this later
-            const SizedBox(height: 12),
           ],
         ),
       ),
